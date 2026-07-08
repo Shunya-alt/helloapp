@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.ilk
+*.meta
+*.pdb
+*.db
+*.log
+*.tlog
+*.vs/
